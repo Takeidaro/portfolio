@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
 
+<head>
+    <meta charset="UTF-8">
+    <title>Just a Moment. | Yutaka Takei</title>
+</head>
+
+<body>
+
+    <h1>少々お待ちください</h1>
+
+    <p>Film</p>
+
+    <h2>Video</h2>
+
+    <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube-nocookie.com/embed/pvjiZf0boLU?si=JiatPCHksn9YAnzN"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+
+    <h2>Overview</h2>
+
+    <p>
+        ここに作品概要を書く。
+    </p>
+
+</body>
+
+</html>
